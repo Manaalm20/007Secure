@@ -132,7 +132,7 @@
       .image {
         border-radius: 50%;
         overflow: hidden;
-        width: 150px;
+        width: 150px;      /*blue circle for logo*/
         height: 150px;
         border: 1px dashed var(--blue);
       /*   display: flex; */
