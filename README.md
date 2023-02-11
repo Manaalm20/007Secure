@@ -1,4 +1,4 @@
-![007Secure Logo](thumbnail.png)
+![007Secure Logo](007securelogocircle.png)
 
 ---
 
