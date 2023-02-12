@@ -1,4 +1,11 @@
-![007Secure Logo](007securelogocircle.png)
+<h1 align="center">
+  <br>
+ <img src="https://github.com/emma-t/007Secure/blob/main/007securelogocircle.png" alt="007Secure logo" width="300">
+  <br>
+  007Secure
+  <br>
+</h1>
+
 
 ---
 
@@ -40,7 +47,7 @@
 
 ### 007Secure tool is now live hosted on Github!
 
-Created for [uOttaHack5](https://2023.uottahack.ca/), this website is a tool to teach the younger generation about cyber security practices. This includes :
+Created for [uOttaHack 5](https://2023.uottahack.ca/), this website is a tool to teach the younger generation about cyber security practices. This includes :
 - What is cyber security and why is it important?
 - What counts as personal information?
 - How to keep your personal information safe.
@@ -55,7 +62,7 @@ Created for [uOttaHack5](https://2023.uottahack.ca/), this website is a tool to 
 
 <div align="center">
 
-**[PROJECT PHILOSOPHY](https://github.com/emma-t/007Secure#-project-philosophy) • 
+**[PROJECT PHILOSOPHY](https://github.com/emma-t/007Secure#-project-challenge-and-philosophy) • 
 [TECH STACK](https://github.com/emma-t/007Secure#-tech-stack) • 
 [CONTRIBUTING](https://github.com/emma-t/007Secure#%EF%B8%8F-contributing) • 
 [SPREAD THE WORD](https://github.com/emma-t/007Secure#-spread-the-word) • 
@@ -65,11 +72,12 @@ Created for [uOttaHack5](https://2023.uottahack.ca/), this website is a tool to 
 
 <br />
 
-# 🧐 Project philosophy
+# 🧐 Project challenge and philosophy
 
-> 
+> Create a fun, interactive, and accessible online tool or game for teaching younger audiences about a basic cyber security concept. Examples could include, but are not limited to: an interactive widget for generating secure passwords and passphrases a game that teaches the player to detect phishing emails a visual-novel style guide that walks the reader through implementing cyber secure practices in their home
+For more ideas on promoting best practices in cyber security, visit https://getcybersafe.gc.ca/en
 
-**Read more about...**
+**Read more...**
 
 # 👨‍💻 Tech stack
 
