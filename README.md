@@ -4,8 +4,9 @@
   <br>
   007Secure
   <br>
+  <p> &nbsp; </p>
+  <img src="https://github.com/emma-t/007Secure/blob/main/007Secure.gif" alt="007Secure website" width="800">
 </h1>
-
 
 ---
 
