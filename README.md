@@ -45,7 +45,7 @@
 
 ---
 
-### 007Secure tool is now live hosted on GitHub!
+### 007Secure tool is now live hosted on GitHub! 🎉
 
 Created for [uOttaHack 5](https://2023.uottahack.ca/), this website is a tool to teach the younger generation about cyber security practices. This includes :
 - What is cyber security and why is it important?
@@ -74,11 +74,11 @@ Created for [uOttaHack 5](https://2023.uottahack.ca/), this website is a tool to
 
 # 🧐 Project challenges
 
-**CSE Challenge**
+**⭐ CSE Challenge**
 > Create a fun, interactive, and accessible online tool or game for teaching younger audiences about a basic cyber security concept. Examples could include, but are not limited to: an interactive widget for generating secure passwords and passphrases a game that teaches the player to detect phishing emails a visual-novel style guide that walks the reader through implementing cyber secure practices in their home
 For more ideas on promoting best practices in cyber security, visit https://getcybersafe.gc.ca/en
 
-**Most Creative Use of GitHub**
+**⭐ Most Creative Use of GitHub**
 > GitHub is one of the best ways to collaborate, push code, get feedback, and show the world what you’ve built during a hackathon. To take it a step further, GitHub is now offering you access to industry tools, events & learning resources through something called GitHub Global Campus. Win this weekend’s Best Use of GitHub prize category, first by signing up for GitHub Global Campus and second by using a GitHub repository to host your hackathon project’s code! Make sure your use of GitHub stands out with a detailed ReadMe page, meaningful pull requests and collaboration history, and even a GitHub pages deployment!
 
 # 👨‍💻 Tech stack
@@ -98,7 +98,7 @@ If you want to say thank you and/or support active development of 007Secure:
 - Add a GitHub Star to the project 
 - Support us on the [Hackathon's Devpost](https://uottahack5.devpost.com/)
 
-Thanks so much for your interest in growing the reach of 007Secure!
+Thanks so much for your interest in growing the reach of 007Secure! Cyber security is one of the most important things to consider in our daily lives and the more people who practice it, the safer our world becomes!
 
 # ⚠️ License
 007Secure is available under the MIT license. See the LICENSE file for more info.
