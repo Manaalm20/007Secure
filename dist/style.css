@@ -14,31 +14,31 @@
         font-size: 12px;
         font-family: 'IBM Plex Mono', sans-serif;
         color: white;
-        font-size: 14px; /*main chip text size*/
+        font-size: 14px;
       }
 
       body {
-        background-color: black; /*background*/
+        background-color: black;
         width: 100vw;
         height: 100vh;
       }
 
       main {
-        padding: 5https://www.makeuseof.com/tag/the-10-pieces-of-information-identity-thieves-are-looking-for/0px;
+        padding: 50px;
         width: 100%;
-        height: 100%;                 /*background stuff*/
+        height: 100%;
         display: flex;
       /*   flex-direction: column; */
         flex-direction: row;
         align-items: center;
       }
       .menu {
-        width: 220px; /*position of main chip box */
+        width: 220px;
       }
-      .menu>button { /* side bar*/
-        width: 200px;
-        height: 70px; /*side bar sizez*/
-        padding-bottom: 12px;
+      .menu>button {
+        width: 120px;
+        height: 40px;
+        padding-bottom: 5px;
         margin-top: 20px;
         background-color: transparent;
         background-image:url(https://lh6.googleusercontent.com/B3GZqaB4CtIuOZqveBVoBvWZPBZQ7bkkyTEXs9kBCWaop3KXDi5GaHa_zi9Dekl_igc=w2400);
@@ -51,7 +51,7 @@
         color:var(--blue);
         background-color: transparent;
         box-shadow: none;
-        width: 140px; /*140*/
+        width: 140px;
       }
 
       .scene {
@@ -132,7 +132,7 @@
       .image {
         border-radius: 50%;
         overflow: hidden;
-        width: 150px;      /*blue circle for logo*/
+        width: 150px;
         height: 150px;
         border: 1px dashed var(--blue);
       /*   display: flex; */
@@ -147,7 +147,7 @@
         overflow: hidden;
       }
 
-      img { /*picture in the circle in the intro page?*/ 
+      img {
         width: 100%;
         height: 140px;
         object-fit:cover;
@@ -161,7 +161,7 @@
       .intro-heading {
         font-size: 3rem;
         font-family: 'IBM Plex Mono', monospace;
-        width: 100%;                                /*main chip text position*/
+        width: 100%;
         color: var(--whiteish-letters);
         padding-bottom: 20px;
         line-height: 3rem;
