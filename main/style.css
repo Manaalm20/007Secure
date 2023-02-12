@@ -215,8 +215,9 @@
         color: var(--blue);
       }
       .work-edu-info {
-        width: 70%;
-        margin-left: 20px;
+        width: 90%;     /*text part*/
+        margin-left: 9px;
+        margin-right: 70px;
       }
       .work-edu-info>ul {
         margin-left: 20px;
