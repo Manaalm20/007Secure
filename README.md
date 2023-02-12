@@ -57,6 +57,13 @@ Created for [uOttaHack 5](https://2023.uottahack.ca/), this website is a tool to
 - How to prevent phishing.
 
 ---
+### Project details
+- General awareness
+- Gamifying learning phishing and spam mails
+- Gamifying learning to securely operate devices at home 
+- Built in password generator 
+
+---
 
 <br />
 
