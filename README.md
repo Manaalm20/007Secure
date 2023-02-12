@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
- <img src="https://github.com/emma-t/007Secure/blob/main/007securelogocircle.png" alt="007Secure logo" width="300">
+ <img src="https://github.com/emma-t/007Secure/blob/main/dist/007securelogocircle.png" alt="007Secure logo" width="300">
   <br>
   007Secure
   <br>
